@@ -1,1 +1,2 @@
-# rusentitweet
+# RuSentiTweet
+RuSentiTweet is a sentiment analysis dataset of 13,392 general domain tweets in Russian. RuSentiTweet was manually annotated (moderate inter-rater agreement) into 5 classes: Positive, Neutral, Negative, Speech Act, and Skip. As a source of data, we used Twitter Stream Grab, a historical collection of tweets obtained from the general Twitter API stream, which provides a ~1% sample of the public tweets. 
